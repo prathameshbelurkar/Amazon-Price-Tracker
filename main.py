@@ -13,8 +13,8 @@ header = {
 }
 
 SMTP = "smtp.gmail.com"
-EMAIL = "prathamesh.belurkar@gmail.com"
-PASSWORD = "Thi$_is_Prathamesh_Belurkar_@15"
+EMAIL = "YOUR_GMAIL"
+PASSWORD = "YOUR_PASSWORD"
 
 # ___________________________GETTING THE RESPONSE________________________________________
 response = requests.get(url=URL, headers=header)
