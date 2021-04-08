@@ -1,6 +1,6 @@
 # Amazon-Price-Tracker
 
-## Requirement Modules
+## Required Modules
 - > ***requests***
 - > ***lxml***
 - > ***BeautifulSoup***
